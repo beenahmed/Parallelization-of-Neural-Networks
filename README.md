@@ -1,1 +1,4 @@
 # Parallelization-of-Neural-Networks
+
+
+This project focuses on the parallelization of neural networks to improve computational efficiency and enable the training of larger and more complex models. The project explores data parallelism and model parallelism, which distribute the workload across multiple processors to speed up the training process and handle larger datasets. The project also discusses the use of GPU-accelerated computing and new computing platforms like Apple's M1 chip to further improve performance. The code for the project implements a simple neural network and a convolutional neural network, and tests their performance using the IRIS and MNIST datasets, respectively. The project also discusses the application of parallelization techniques to the fine-tuning of large language models.
